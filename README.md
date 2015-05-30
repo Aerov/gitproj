@@ -6,3 +6,4 @@ and more
 
 # NEXT 
 more things
+these are not confusing but it is tough when stuff doesnt work
